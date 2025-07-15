@@ -10,7 +10,3 @@
 - **Backend**: FastAPI (Python)
 - **Frontend**: Svelte
 - **DB**: SQLite
-
----
-
-## 📁 프로젝트 구조
